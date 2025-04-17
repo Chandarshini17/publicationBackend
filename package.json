@@ -18,7 +18,6 @@
     "multer": "^1.4.5-lts.1",
     "nodemon": "^3.1.9",
     "path": "^0.12.7",
-    "publication_backend": "file:",
     "Router": "^2.1.0",
     "server": "^1.0.41"
   }
